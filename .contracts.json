@@ -19,5 +19,8 @@
   },
   "testBSTC": {
     "router": "0x68957ECfF6ddfd2081679252Cc871D0c54370EB7"
+  },
+  "BSTC": {
+    "router": "0xA2E386aA4ef9b6d28661e00dDa856Ba710D798ED"
   }
 }
